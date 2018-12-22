@@ -63,7 +63,7 @@
           color: $primary;
         }
         &:active {
-          color: darken($primary, 15%);
+          color: $primary;
         }
         &.active {
           color: $primary;
